@@ -67,7 +67,7 @@ python test.py --mode {mode}
 
 ## License
 ```plain
-Non-commercial
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license(CC BY-NC-SA 4.0). 
 ```
     
    
@@ -81,5 +81,6 @@ Non-commercial
       eprint={2303.07697},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
-}```
+}
+```
  
